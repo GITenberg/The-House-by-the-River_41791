@@ -1,0 +1,34 @@
+_repo: The-House-by-the-River_41791
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41791-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Herbert, A. P. (Alan Patrick)
+    alias: Herbert, Alan Patrick, Sir
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '37508'
+    url: http://www.gutenberg.org/2009/agents/37508
+    wikipedia: http://en.wikipedia.org/wiki/A._P._Herbert
+description: When Stephen strangled his housemaid, he enlisted the help of his friend
+  to dispose of the body, and then pointed the finger at this same friend. A hateful
+  bond is formed from a loyal friendship. As this story reaches its thrilling climax,
+  it seems that the price must be paid for the screams that were silenced in the house
+  by the river.
+gutenberg_issued: '2013-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'London (England) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Poets -- Fiction'
+- !lcsh 'Murder -- Fiction'
+title: The House by the River
+url: http://www.gutenberg.org/ebooks/41791
